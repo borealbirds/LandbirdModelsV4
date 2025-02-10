@@ -10,7 +10,7 @@ Version 4 of BAM's landbird models (Stralberg et al. *In Review*) can be reprodu
 
 ## Version 5
 
-Version 5 of the modelling workflow is currently under active development and is available in [this repository] (https://github.com/borealbirds/LandbirdModelsV5).
+Version 5 of the modelling workflow is currently under active development and is available in [this repository](https://github.com/borealbirds/LandbirdModelsV5).
 
 New developments to BAM's Landbird Models for Version 5 include:
 
