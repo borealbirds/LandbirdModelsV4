@@ -6,7 +6,7 @@ BAM's landbird models bridge the gap between local studies and large-scale manag
 
 ## Version 4
 
-Version 4 of BAM's landbird models (Stralberg et al. *In Review*) can be reproduced using the data object stored on [Zenodo](https://zenodo.org/records/4042821) and the generalized model script available in this repository. Please see Version 5 below for additional steps in the modelling and interpretation workflow.
+Version 4 of BAM's landbird models (Stralberg et al. *In Review*) can be reproduced using the data object stored on Zenodo (DOI [10.5281/zenodo.4018335](https://doi.org/10.5281/zenodo.4018335)) and the generalized model script available in this repository. Please see Version 5 below for additional steps in the modelling and interpretation workflow.
 
 Please note, in late March 2025, we discovered and fixed a bug in the code for calculating QPAD offsets that dated back approximately ten years. The bug was within the code used to adjust time zones and therefore affects QPAD offsets used for
 
