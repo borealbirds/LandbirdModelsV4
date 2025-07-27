@@ -6,7 +6,7 @@ BAM's landbird models bridge the gap between local studies and large-scale manag
 
 ## Version 4
 
-Version 4 of BAM's landbird models (Stralberg et al. *In Review*) can be reproduced using the data object stored on Zenodo (DOI [10.5281/zenodo.4018335](https://doi.org/10.5281/zenodo.4018335)) and the generalized model script available in this repository. Please see Version 5 below for additional steps in the modelling and interpretation workflow.
+Version 4 of BAM's landbird models (Stralberg et al. 2025) can be reproduced using the data object stored on Zenodo (DOI [10.5281/zenodo.4018335](https://doi.org/10.5281/zenodo.4018335)) and the generalized model script available in this repository. Please see Version 5 below for additional steps in the modelling and interpretation workflow.
 
 Please note, in late March 2025, we discovered and fixed a bug in the code for calculating QPAD offsets that dated back approximately ten years. The bug was within the code used to adjust time zones and therefore affects QPAD offsets used for
 
@@ -19,6 +19,12 @@ Since QPAD offsets only adjust the intercept of model estimates, this bug will o
 2. models were compared or integrated across time zones. Relative patterns of density (e.g., habitat coefficients) within time zones should be unaffected.
 
 If you have been affected by this bug, please see the [`QPAD-offsets-correction`](https://github.com/borealbirds/QPAD-offsets-correction) repository for further details or email `bamp@ualberta.ca` for assistance.
+
+Citing v4:
+
+- Stralberg, D., Sólymos, P., Docherty, T. D. S., Crosby, A. D., Van Wilgenburg, S. L., Knight, E. C., Drake, A., Boehm, M. M. A., Haché, S., Leston, L., Toms, J. D., Ball, J. R., Song, S. J., Schmiegelow, F. K. A., Cumming, S. C., Bayne, E. M., 2025. A generalized modeling framework for spatially extensive species abundance prediction and population estimation. _Ecosphere_, in press.
+- Sólymos, P., D. Stralberg, and E. C. Knight. 2025. BAM Generalized National Models Documentation, Version 4.0 (Version 4.0) [Data set]. _Zenodo_, [DOI 10.5281/zenodo.4018335](https://doi.org/10.5281/zenodo.4018335).
+
 
 ## Version 5
 
